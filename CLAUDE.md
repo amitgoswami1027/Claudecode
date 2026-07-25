@@ -9,9 +9,9 @@ This is a personal learning/practice repository (`amitgoswami1027/Claudecode`) f
 Top-level layout:
 - `sugar_and_bloom.html` — standalone landing page for a handcrafted-cakes business (hero, product showcase, etc.).
 - `PracticeProject/` — has its own `CLAUDE.md`; contains `mindful_paws.html`, a pet-grooming business landing page (hero, interactive multi-step quiz with live price calculation, services grid, gallery, booking form with client-side validation).
-- `Build a business frontage - with skills/` — a project built using the Claude Code **frontend-design** skill (installed under `.claude/skills/frontend-design`, symlinked from `.agents/skills/frontend-design`, tracked via `skills-lock.json`). Contains `sugar_and_bloom_v2.html`, a redesign of the cakes landing page done under that skill's design guidance.
+- `Build a business frontage - with skills/` — a project built using the Claude Code **frontend-design** skill. Contains `sugar_and_bloom_v2.html`, a redesign of the cakes landing page done under that skill's design guidance.
 
-When working inside `Build a business frontage - with skills/`, the frontend-design skill auto-loads and should shape any visual/UI work there: it pushes toward one deliberate, subject-specific aesthetic risk per page rather than generic AI-template defaults (warm-cream+serif, near-black+neon-accent, or broadsheet-hairline looks), a two-pass process (plan a color/type/layout/signature token system, critique it against the brief, then build), and a quality floor (responsive, visible focus states, reduced-motion respected).
+The **frontend-design** skill is installed repo-wide (at root `.claude/skills/frontend-design`, symlinked from root `.agents/skills/frontend-design`, tracked via root `skills-lock.json`), so it auto-loads for any visual/UI work anywhere in this repo, not just the folder above. It pushes toward one deliberate, subject-specific aesthetic risk per page rather than generic AI-template defaults (warm-cream+serif, near-black+neon-accent, or broadsheet-hairline looks), a two-pass process (plan a color/type/layout/signature token system, critique it against the brief, then build), and a quality floor (responsive, visible focus states, reduced-motion respected).
 
 ## Working with this codebase
 
