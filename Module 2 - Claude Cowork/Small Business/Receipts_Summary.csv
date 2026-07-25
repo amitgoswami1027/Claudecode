@@ -1,7 +1,0 @@
-Date,Vendor,Description,Currency,Subtotal,Tax/Fees,Tip,Total,Payment Method,File
-2026-01-15,Delta Airlines,Flight DL 482 Toronto -> New York,USD,520.00,87.60,0.00,607.60,AMEX ****9221,Receipt_Delta_Airlines_Jan15_2026.png
-2026-02-02,Ruth's Chris Steak House,2x Steak Dinners + Wine (Toronto ON),CAD,235.00,30.55,40.00,305.55,Visa,Receipt_RuthsChris_Toronto_Feb2_2026.png
-,,,,,,,,,
-,,Total USD,USD,,,,607.60,,
-,,Total CAD,CAD,,,,305.55,,
-,,Grand Total (sum of all numbers - mixed currency),,,,,913.15,,
