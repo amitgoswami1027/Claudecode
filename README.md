@@ -12,3 +12,6 @@ https://www.anthropic.com/news/model-context-protocol
 * Restart VS Code after any PATH change — VS Code caches the environment at launch, so it won't pick up changes until you restart it.
 * Open a new PowerShell terminal (not VS Code's) and run claude --version. If that works but VS Code doesn't, restarting VS Code should fix it. If it fails everywhere, the install itself needs attention.
 
+### Anthropic Skill
+https://github.com/anthropics/skills/tree/main/skills
+
